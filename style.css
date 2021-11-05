@@ -1,0 +1,35 @@
+body {
+    text-align: center;   
+     background-color: aqua;
+     font-family: 'Fruktur', cursive;
+}
+.header_div{
+    background-color: white;
+color: maroon;
+}
+.header_div p{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: green;
+    font-weight: bold;
+    font-size: 12px;
+}
+.main_div{
+    background-color: greenyellow;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: indigo;
+    bottom: 0;
+    width: 100%;
+    font-size: 30px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
